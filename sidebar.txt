@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[atp:home|Door43 (atp)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-atp|d43-atp repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-atp/archive/master.zip|d43-atp.zip]]
+
+**Recent Changes**
+{{changes>ns = atp}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/atp|Ethnologue data]]
+
